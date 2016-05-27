@@ -3,15 +3,15 @@
 # ----------------------- #
 
 url: theoluckitamilala.github.io
-title: Beranda
-email: theoluckita@gmail.com
+title: BERANDA
+email: your-email@domain.com
 author: Your Name
-description:THEO LUCKITA MILALA > # "Write an awesome description for your new site here. 
+description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: THEO LUCKITA MILALA, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2016 Theo Luckita Milala. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,11 +24,16 @@ permalink: pretty
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
-
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://twitter.com/
+  - title: facebook
+    url: https://facebook.com/
+  - title: gmail
+    url: https://accounts.google.com/ServiceLogin?
+    social:
+  - title: SIF
+    url: http://sif.uin-suska.ac.id/
+  - title: UIN
+    url: http://uin-suska.ac.id/
+    
